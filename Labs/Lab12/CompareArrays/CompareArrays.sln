@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CompareArrays", "CompareArrays\CompareArrays.pyproj", "{EB104BA6-B601-4A53-813E-3E0EE3EB3AF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB104BA6-B601-4A53-813E-3E0EE3EB3AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB104BA6-B601-4A53-813E-3E0EE3EB3AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D9A7B24-DA62-476C-8E23-8C7CB7402772}
+	EndGlobalSection
+EndGlobal

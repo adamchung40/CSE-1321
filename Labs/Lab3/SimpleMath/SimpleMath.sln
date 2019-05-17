@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SimpleMath", "SimpleMath\SimpleMath.pyproj", "{F9FA35C5-A725-4E52-B508-459AE6F1DF7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9FA35C5-A725-4E52-B508-459AE6F1DF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FA35C5-A725-4E52-B508-459AE6F1DF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2CAE99D-B4C7-4405-A2AA-1986EBA03935}
+	EndGlobalSection
+EndGlobal

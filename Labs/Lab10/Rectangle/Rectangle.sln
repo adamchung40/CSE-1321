@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Rectangle", "Rectangle\Rectangle.pyproj", "{3DB6C6EB-F9C3-4EE4-92FB-C111E314054C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB6C6EB-F9C3-4EE4-92FB-C111E314054C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB6C6EB-F9C3-4EE4-92FB-C111E314054C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6689D8B8-E72B-44E9-AF05-DFEBF756E047}
+	EndGlobalSection
+EndGlobal

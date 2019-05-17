@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Occurrences", "Occurrences\Occurrences.pyproj", "{E8E4D223-79A0-4E06-9FDF-71842841A02C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8E4D223-79A0-4E06-9FDF-71842841A02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E4D223-79A0-4E06-9FDF-71842841A02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B78F122D-1565-4B8E-8CED-08226A32A2F9}
+	EndGlobalSection
+EndGlobal
